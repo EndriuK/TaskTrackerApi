@@ -1,0 +1,23 @@
+# Bin & obj
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Database dev
+*.db
+*.db-shm
+*.db-wal
+tasks.db*
+
+# VS Code
+.vscode/
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
